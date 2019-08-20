@@ -1,4 +1,4 @@
-## Laravel Teams (B2)
+## BSquared (B2)
 
-Teams is an application for small companies to manage their business.
+BSquared is a basic application built for small businesses to manage their companies. Built with Laravel and Material UI Lite.
 
