@@ -1,0 +1,19 @@
+the idea for this project is to create a team post app service. many clients will run from same server. each client will have their own 'domain'.
+
+structure:
+app administrator:
+||
+client domain/admin
+||   ||  
+client employees/team members
+
+
+app admin will be able to manage and see all clients accounts
+
+client domain is strictly available to each own client
+
+client admin cann add/remove employees/team members from their domain
+
+
+
+
